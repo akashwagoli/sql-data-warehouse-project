@@ -14,7 +14,7 @@ It is designed as a portfolio project that demonstrates real-world data engineer
 
 ### Specifications
 - **Data Sources** : Import data from two sources (ERP & CRM) provided as CSV files.
-- **Data Quality ** : Cleanse and resolve data quality issues prior to analysis.
+- **Data Quality** : Cleanse and resolve data quality issues prior to analysis.
 - **Integration** : Combine bothe sources into a single, user-friendly data model designed for analytical queries.
 - **Scope** : Focus on the latest dataset only; historization of data is not required.
 - **Documentation** : Provide clear decumentation of the data model to support both business stakeholders and analytics team.
@@ -23,6 +23,7 @@ It is designed as a portfolio project that demonstrates real-world data engineer
 
 ### BI : Analytics & Repoorting (Data ANalytics)
 
+
 ### Objective
 Delvelope SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
@@ -30,3 +31,8 @@ Delvelope SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+
+## About Me
+
+Hi, I’m **Akash Wagoli** — a Data Analyst with 2+ years of experience in SQL and data analysis, currently transitioning into Data Engineering. I’m building expertise in data warehousing, ETL processes, and scalable data pipelines, with a strong focus on writing efficient SQL and working with large datasets.
